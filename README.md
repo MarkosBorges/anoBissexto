@@ -1,5 +1,5 @@
-# anoBissexto
-Programa em C++ criado no curso de Astronomia e Astronáutica (Astrofísica para Todos-UFSC) para calcular se o ano é bissexto ou não. :)
+// anoBissexto
+//Programa em C++ criado no curso de Astronomia e Astronáutica (Astrofísica para Todos-UFSC) para calcular se o ano é bissexto ou não. :)
 
 
 #include <iostream>
@@ -7,9 +7,6 @@ Programa em C++ criado no curso de Astronomia e Astronáutica (Astrofísica para
 #include <locale>
 
 using namespace std;
-
-//Algoritmo para o curso de Astronomia e Astronáutica IFSC
-//MarcosBorges
 
 void bissexto(int ano){
 
